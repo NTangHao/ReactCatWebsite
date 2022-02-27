@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex-complete/static/css/main.62d87302.chunk.css",
-    "main.js": "/monsters-rolodex-complete/static/js/main.d4f61689.chunk.js",
-    "main.js.map": "/monsters-rolodex-complete/static/js/main.d4f61689.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex-complete/static/js/runtime-main.b3c2bfd0.js",
-    "runtime-main.js.map": "/monsters-rolodex-complete/static/js/runtime-main.b3c2bfd0.js.map",
-    "static/js/2.b4309f00.chunk.js": "/monsters-rolodex-complete/static/js/2.b4309f00.chunk.js",
-    "static/js/2.b4309f00.chunk.js.map": "/monsters-rolodex-complete/static/js/2.b4309f00.chunk.js.map",
-    "index.html": "/monsters-rolodex-complete/index.html",
-    "precache-manifest.e764afbc7a0e9fddcd670f514fdb0171.js": "/monsters-rolodex-complete/precache-manifest.e764afbc7a0e9fddcd670f514fdb0171.js",
-    "service-worker.js": "/monsters-rolodex-complete/service-worker.js",
-    "static/css/main.62d87302.chunk.css.map": "/monsters-rolodex-complete/static/css/main.62d87302.chunk.css.map",
-    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/monsters-rolodex-complete/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+    "main.css": "/ReactCatWebsite/static/css/main.62d87302.chunk.css",
+    "main.js": "/ReactCatWebsite/static/js/main.d4f61689.chunk.js",
+    "main.js.map": "/ReactCatWebsite/static/js/main.d4f61689.chunk.js.map",
+    "runtime-main.js": "/ReactCatWebsite/static/js/runtime-main.f59bf0ff.js",
+    "runtime-main.js.map": "/ReactCatWebsite/static/js/runtime-main.f59bf0ff.js.map",
+    "static/js/2.b4309f00.chunk.js": "/ReactCatWebsite/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/ReactCatWebsite/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/ReactCatWebsite/index.html",
+    "precache-manifest.5e83d5299c5ad9a5f46bc204a85c2440.js": "/ReactCatWebsite/precache-manifest.5e83d5299c5ad9a5f46bc204a85c2440.js",
+    "service-worker.js": "/ReactCatWebsite/service-worker.js",
+    "static/css/main.62d87302.chunk.css.map": "/ReactCatWebsite/static/css/main.62d87302.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/ReactCatWebsite/static/js/2.b4309f00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3c2bfd0.js",
+    "static/js/runtime-main.f59bf0ff.js",
     "static/js/2.b4309f00.chunk.js",
     "static/css/main.62d87302.chunk.css",
     "static/js/main.d4f61689.chunk.js"
